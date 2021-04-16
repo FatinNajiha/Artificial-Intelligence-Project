@@ -1,5 +1,3 @@
-# Artificial-Intelligence-Project
-
 # COVID-19 SOCIAL DISTANCING DETECTOR PROJECT
 
 ## A. PROJECT SUMMARY
